@@ -53,3 +53,9 @@ body {
 .text-body-secondary {
   color: #6c757d !important;
 }
+.mycity {
+  font-family: "Ubuntu";
+  font-weight: 600;
+  font-style: normal;
+  color: #0a71bf;
+}
